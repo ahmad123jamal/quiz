@@ -1,20 +1,16 @@
-/* body {
+body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 50px;
 }
-.question {
+#question {
     font-size: 24px;
     margin-bottom: 20px;
 }
-.options button {
+button {
     display: block;
     width: 200px;
     margin: 10px auto;
     padding: 10px;
     font-size: 18px;
 }
-.score {
-    font-size: 20px;
-    margin-top: 20px;
-} */
